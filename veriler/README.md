@@ -26,7 +26,7 @@ bilgilerini (isim, yaş, cinsiyet, bilet sınıfı, ücret, liman vb.) içerir.
 
 ```bash
 pip install -r requirements.txt
-python main.py
+python main
 ```
 
 ## Kullanılan Kütüphaneler
